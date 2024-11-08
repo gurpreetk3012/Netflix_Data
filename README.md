@@ -26,3 +26,7 @@ Technologies used in the project:
 
 *   Python: Data manipulation and analysis
 *   Pandas: Data wrangling and cleaning
+
+<h2>🔎 Data Source</h2>
+
+The dataset used in this project is sourced from Kaggle. It includes details about Netflix's catalog, such as titles, genres, release dates, and ratings. You can find the original dataset [here on Kaggle](https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization)
