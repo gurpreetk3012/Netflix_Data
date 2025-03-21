@@ -6,7 +6,7 @@
   
 <h2>🧐 Features</h2>
 <img align="right" src="https://github.com/user-attachments/assets/4546e6be-7655-4d4b-8cd9-f26d5e2ad493" alt="Project Screenshot" width="200">
-Here're some of the project's best features:
+Here're some of the project's best features:<br><br>
 
 *   Data Cleaning and Preprocessing
 *   Exploratory Data Analysis (EDA)
@@ -15,15 +15,25 @@ Here're some of the project's best features:
 *   Country-Based Content Insights
 *   Rating and Age Group Analysis
 *   Content Duration Analysis
+*   Power BI Dashboard for Data Visualization
 
-  
+<h2>📊 Power BI Dashboard</h2>
+
+A **Power BI dashboard** has been added to this project to provide interactive visual insights into Netflix's content. This dashboard includes:  
+
+- Genre distribution over time  
+- Trends in Netflix content releases  
+- Country-wise content analysis   
+
+You can find the Power BI file in the repository: **[`Netflix_data_visualization.pbix`](https://github.com/gurpreetk3012/Netflix_Data/blob/main/Netflix_data_visualization.pbix)**
   
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
 
-*   Python: Data manipulation and analysis
-*   Pandas: Data wrangling and cleaning
+*   **Python**: Data manipulation and analysis
+*   **Pandas**: Data wrangling and cleaning
+*   **Power BI**: Interactive data visualization
 
 <h2>🔎 Data Source</h2>
 
